@@ -27,7 +27,7 @@
 <li>Crie uma função que receba a lista de alunos e valide segundo os seguintes critérios: </li>
   <ul>
   <li>O nome deve conter pelo menos 3 caracteres;</li>
-  <li>O email deve conter um "@" e um ".";</li>
+  <li>O email deve conter um "@" e um "." após o @;</li>
   <li>A idade deve ser maior ou igual a 16 anos;</li>
   <liA sigla do curso deve existir no dicionário de cursos disponíveis;<li
   </ul>
